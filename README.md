@@ -17,4 +17,4 @@ CBOW and Skip-gram architectures:
 
 ![](https://github.com/KrzysiekJa/Word2Vec-fb-posts-analysis/blob/main/images/architectures.png)
 
-More in the attached jupyter notebook.
+More in the attached jupyter [notebook](../blob/main/fb_posts_analysis.ipynb).
